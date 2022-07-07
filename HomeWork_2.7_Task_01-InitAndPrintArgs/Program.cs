@@ -15,7 +15,7 @@ namespace HomeWork_2._7_Task_01_InitAndPrintArgs
         static void Main(string[] args)
         {
             string _fullName = "Shagov Alexander Valerevich";
-            int _age = 36;
+            byte _age = 36;
             string _email = "shagov25@gmail.com";
             double _programmingScores = 90.56;
             double _mathScores = 80.78;
